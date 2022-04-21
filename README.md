@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaviaThando
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, Java, HTML and CSS
 - 💞️ I’m looking to collaborate on samll projects that would help me grow in the world of coding.
 
 
