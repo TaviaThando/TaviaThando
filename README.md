@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="/img/actavian.png"/>
 
 - 👋 Hi, I’m @TaviaThando
 - 🌱 I’m currently learning Python, Java, HTML and CSS
