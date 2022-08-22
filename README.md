@@ -1,7 +1,8 @@
-<img src="/img/actavian.png" width="846px"/>
+<img src="/img/actavian.png" width="846px" alt=""/>
 
 ### 👋Hi there, I'm [Octavia Thando Moyo](https://www.linkedin.com/in/octavia-moyo-563008219/)
 
+<h2>something</h2>
 
 
 
