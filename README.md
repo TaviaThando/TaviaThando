@@ -37,13 +37,13 @@
 
 <h2>Catch me on these social platforms😉</h2>
 
+<div>
 <a href="https://www.linkedin.com/in/octavia-moyo-563008219/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Octavia%20Moyo-blue"></a>
 
 <a href="https://twitter.com/octathando" ><img alt="Twitter" src="https://img.shields.io/twitter/follow/octathando?style=social"></a>
 
 <a href="mailto:octavia@yellogarden.co.za"><img alt="Email" src="https://img.shields.io/badge/email-octavia%40yellogarden.co.za-red"></a>
-
-
+</div>
 <!---
 TaviaThando/TaviaThando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
