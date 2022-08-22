@@ -4,9 +4,7 @@
 
 <h2>A little something about me...</h2>
 
-
-
-
+<ul>tavian
 
 <!---
 TaviaThando/TaviaThando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
