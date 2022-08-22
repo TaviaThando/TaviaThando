@@ -2,7 +2,9 @@
 
 ### 👋Hi there, I'm [Octavia Thando Moyo](https://www.linkedin.com/in/octavia-moyo-563008219/)
 
-<h2>something</h2>
+<h2>A little something about me...</h2>
+
+
 
 
 
