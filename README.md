@@ -2,6 +2,10 @@
 
 ### 👋Hi there, I'm [Octavia Thando Moyo](https://www.linkedin.com/in/octavia-moyo-563008219/)
 
+> Aspiring FullStack Developer
+> Student at WeThinkCode_
+
+
 
 <!---
 TaviaThando/TaviaThando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
