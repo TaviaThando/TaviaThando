@@ -1,6 +1,6 @@
 <img src="/img/actavian.png" width="846px"/>
 
-👋Hi there, I'm [Octavia Thando Moyo](https://www.linkedin.com/in/octavia-moyo-563008219/)
+### 👋Hi there, I'm [Octavia Thando Moyo](https://www.linkedin.com/in/octavia-moyo-563008219/)
 
 
 <!---
