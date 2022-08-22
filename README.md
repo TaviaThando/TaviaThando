@@ -2,7 +2,10 @@
 
 ### 👋Hi there, I'm [Octavia Thando Moyo](https://www.linkedin.com/in/octavia-moyo-563008219/) (The Actavian)
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/Ze44chcCSUpyVN1gmQ/video" width="480"></iframe></div>
+<div style="width:480px">
+    <!-- <iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/Ze44chcCSUpyVN1gmQ/video" width="480"></iframe> -->
+    <img src="https://giphy.com/embed/Ze44chcCSUpyVN1gmQ/video">
+</div>
 
 <h2>A little something about me...</h2>
 
