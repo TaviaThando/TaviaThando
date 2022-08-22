@@ -1,4 +1,4 @@
-<img src="/img/actavian.png" width="100px"/>
+<img src="/img/actavian.png" width="846px"/>
 
 
 
