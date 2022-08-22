@@ -4,7 +4,8 @@
 
 <h2>A little something about me...</h2>
 
-<ul>tavian
+<ul>👿I enjoy watching horror movies<br>🍭I have a very sweet tooth<br>💻Aspiring Full Stack Developer<br>🌹A poet at heart<br>🌄I am not a morning person at all🙈<br>
+
 
 <!---
 TaviaThando/TaviaThando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
