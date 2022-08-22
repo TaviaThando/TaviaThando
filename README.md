@@ -25,7 +25,7 @@
 </div>
 </ul>
 
-<div align="center">
+<div align="justify">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TaviaThando&theme=java-dark)](https://git.io/streak-stats)
 
