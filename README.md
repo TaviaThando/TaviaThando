@@ -29,9 +29,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TaviaThando&theme=java-dark)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaviaThando&theme=great-gatsby&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaviaThando&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaviaThando&theme=great-gatsby&layout=compact" />
 
 </div>
 
