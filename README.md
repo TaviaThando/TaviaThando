@@ -1,8 +1,5 @@
-<img src="/img/actavian.png" align="center"/>
+<img src="/img/actavian.png" width="100px"/>
 
-- 👋 Hi, I’m @TaviaThando
-- 🌱 I’m currently learning Python, Java, HTML and CSS
-- 💞️ I’m looking to collaborate on samll projects that would help me grow in the world of coding.
 
 
 <!---
