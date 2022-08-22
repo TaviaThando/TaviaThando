@@ -2,8 +2,6 @@
 
 ### 👋Hi there, I'm [Octavia Thando Moyo](https://www.linkedin.com/in/octavia-moyo-563008219/)
 
-> Aspiring FullStack Developer
-> Student at WeThinkCode_
 
 
 
